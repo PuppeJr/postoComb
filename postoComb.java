@@ -5,7 +5,7 @@ public class postoComb {
     
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        DecimalFormat df = new DecimalFormat("#.##");
+        DecimalFormat df = new DecimalFormat("#.###");
         
         // Arrays para armazenar as vendas
         double[] vendasTotais = new double[100]; // Array para armazenar os totais de cada venda
