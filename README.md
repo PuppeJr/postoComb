@@ -12,17 +12,20 @@ Para executar o programa, basta compilar o arquivo postoComb.java e rodar o arqu
 Casos de Teste
 Para garantir a qualidade do programa, foram implementados diversos casos de teste, abordando diferentes cenários e condições possíveis. Alguns dos casos de teste incluem:
 
-Teste com fidelidade ativada e quantidade em litros maior que 20.
-Teste com fidelidade desativada e quantidade em litros menor ou igual a 20.
-Teste com tipo de combustível inválido.
-Teste com quantidade em litros negativa.
-Teste com desconto aplicado.
-Teste sem desconto aplicado.
-Teste com fidelidade desativada e quantidade em litros maior que 20.
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) para relatar bugs ou propor novas funcionalidades. Além disso, pull requests para melhorias no código serão avaliados e considerados.
+1)Teste com fidelidade ativada e quantidade em litros maior que 20.
+2)Teste com fidelidade desativada e quantidade em litros menor ou igual a 20.
+3)Teste com tipo de combustível inválido.
+4)Teste com quantidade em litros negativa.
+5)Teste com desconto aplicado.
+6)Teste sem desconto aplicado.
+7)Teste com fidelidade desativada e quantidade em litros maior que 20.
 
-Este é um projeto simples para demonstrar o funcionamento de um algoritmo básico em Java e como casos de teste podem ser aplicados para garantir sua qualidade. Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato!
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) para relatar bugs ou propor novas funcionalidades. 
+Além disso, pull requests para melhorias no código serão avaliados e considerados.
+
+Este é um projeto simples para demonstrar o funcionamento de um algoritmo básico em Java e como casos de teste podem ser aplicados para garantir sua qualidade. 
+Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato: https://puppejr.github.io/
 
 Por Paulo Fernando Puppe Junior
 
