@@ -1,4 +1,5 @@
 Descrição do Projeto
+
 O projeto "Posto de Combustível" consiste em um algoritmo simples desenvolvido em Java para simular a venda de combustível em um posto. O programa permite ao usuário selecionar o tipo de combustível (gasolina ou álcool), informar a quantidade desejada em litros e se caso tiver fidelidade para aplicar descontos.
 
 Funcionalidades Principais
